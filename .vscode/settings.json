@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Git Bash", // 终端用bash
+    "editor.fontSize": 20, // 字体
+    "terminal.integrated.fontSize": 18, // 终端字体
+    "workbench.editor.enablePreview": false, // 新文件新窗口
+    "files.autoSave": "afterDelay", // auto save
+    "files.autoSaveDelay": 1000, // ms
+}
